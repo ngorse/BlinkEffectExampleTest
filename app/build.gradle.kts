@@ -36,7 +36,7 @@ android {
 }
 
 dependencies {
-    implementation("com.github.ngorse:BlinkEffectExample:v0.4")
+    implementation("com.github.ngorse:BlinkEffectExample:v1.0")
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
